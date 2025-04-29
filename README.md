@@ -14,10 +14,6 @@ We explore multiple approaches, including traditional ML methods like **Logistic
   - [Logistic Regression](#logistic-regression)
   - [XGBoost Classifier](#xgboost-classifier)
   - [BERT (Deep Learning)](#bert-deep-learning)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Evaluation](#evaluation)
-- [License](#license)
 
 ## Overview
 
